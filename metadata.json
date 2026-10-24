@@ -1,0 +1,6 @@
+{
+  "name": "MINDTRAP",
+  "description": "MINDTRAP — An Atlas of Human Thinking. A comprehensive offline-first encyclopedia of logical fallacies, cognitive biases, psychological phenomena, mental models, and critical thinking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
